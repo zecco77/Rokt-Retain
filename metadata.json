@@ -1,0 +1,6 @@
+{
+  "name": "Rokt Retain",
+  "description": "A concept prototype for Rokt Retain, exploring the returns moment as an untapped Transaction Moment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
